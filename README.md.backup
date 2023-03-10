@@ -34,4 +34,4 @@ python train_imagenet.py --evaluate --rp --rp_out_channel 48 --save_dir eval_r50
 ```
 
 ## Pretrained Models
-Pretrained models are provided in [google-drive](https://drive.google.com/drive/folders/1-MbjFfUo-RjGe9_i1xlqQKHSkV0lABTC?usp=sharing).
+Pretrained models are provided in [google-drive](https://drive.google.com/drive/folders/1-MbjFfUo-RjGe9_i1xlqQKHSkV0lABTC?usp=sharing), including ResNet18/WideResNet32 on CIFAR-10/100 trained by RNA.
