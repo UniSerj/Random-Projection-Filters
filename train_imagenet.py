@@ -129,8 +129,7 @@ def main():
         logger.info("Train from scratch")
 
     # Initiate data loaders
-    # traindir = os.path.join(config.data, 'train')
-    traindir = os.path.join(config.data, 'val')
+    traindir = os.path.join(config.data, 'train')
     valdir = os.path.join(config.data, 'val')
 
     train_dataset = datasets.ImageFolder(
