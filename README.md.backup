@@ -6,7 +6,7 @@
 * torchvision 0.8.2
 * torchattacks 3.2.6
 
-## Training of RPF
+## Training of RNA
 
 * To train a ResNet18 with RPF on CIFAR-10:
 ```
@@ -19,7 +19,7 @@ python train_imagenet.py --pretrained --lr 0.02 --lr_schedule cosine --batch_siz
 ```
 
 
-## Evaluation of RPF
+## Evaluation of RNA
 
 * To evaluate the performance of ResNet18 with RPF on CIFAR-10:
 
